@@ -1,0 +1,166 @@
+What's your age?,What is your sex?,Where are you from?,Where are you currently?,Do you go to music concerts?,How far do you typically travel to a music concert?,"How much do you typically pay? Please include airfare cost, hotel, taxi, food, etc."
+40-50,Female,0,0,Yes,Local (<20 miles),$100-$500
+16-22,Male,0,0,Yes,100 to 1000 miles,$100-$500
+16-22,Female,0,0,Yes,100 to 1000 miles,$100-$500
+16-22,Male,0,0,Yes,Local (<20 miles),less than $100
+23-30,Female,0,0,Yes,20 to 100 miles,less than $100
+16-22,Female,0,0,Yes,Local (<20 miles),less than $100
+23-30,Female,0,0,Yes,20 to 100 miles,$100-$500
+16-22,Male,1,0,Yes,20 to 100 miles,less than $100
+30-40,Male,0,0,Yes,20 to 100 miles,$100-$500
+16-22,Female,1,0,Yes,20 to 100 miles,$100-$500
+16-22,Male,0,0,Yes,20 to 100 miles,$100-$500
+16-22,Male,0,0,Yes,100 to 1000 miles,$100-$500
+16-22,Female,2,2,Yes,Local (<20 miles),$100-$500
+23-30,Male,2,0,No,100 to 1000 miles,less than $100
+16-22,Male,0,0,Yes,Local (<20 miles),$100-$500
+16-22,Female,0,0,Yes,20 to 100 miles,less than $100
+16-22,Male,0,0,Yes,100 to 1000 miles,less than $100
+16-22,Male,0,0,Yes,Local (<20 miles),less than $100
+16-22,Female,0,0,Yes,20 to 100 miles,$100-$500
+23-30,Male,0,0,Yes,20 to 100 miles,less than $100
+16-22,Female,0,0,Yes,Local (<20 miles),less than $100
+23-30,Female,0,1,Yes,20 to 100 miles,less than $100
+40-50,Female,2,0,Yes,20 to 100 miles,less than $100
+23-30,Female,0,1,Yes,20 to 100 miles,less than $100
+16-22,Male,0,0,Yes,20 to 100 miles,$500-$1000
+16-22,Male,0,0,No,Local (<20 miles),less than $100
+16-22,Female,0,0,Yes,20 to 100 miles,$100-$500
+16-22,Female,0,1,Yes,20 to 100 miles,$100-$500
+30-40,Female,0,1,Yes,Local (<20 miles),less than $100
+16-22,Female,0,0,Yes,100 to 1000 miles,$100-$500
+16-22,Female,0,0,Yes,20 to 100 miles,$100-$500
+23-30,Female,0,0,Yes,Local (<20 miles),$100-$500
+23-30,Male,1,0,Yes,Local (<20 miles),less than $100
+16-22,Male,2,2,Yes,Local (<20 miles),less than $100
+16-22,Female,0,0,Yes,Local (<20 miles),less than $100
+23-30,Female,0,0,Yes,20 to 100 miles,$100-$500
+16-22,Female,0,0,No,20 to 100 miles,less than $100
+23-30,Female,0,0,Yes,Local (<20 miles),less than $100
+23-30,Female,0,0,Yes,Local (<20 miles),$100-$500
+50+,Female,2,0,Yes,20 to 100 miles,$500-$1000
+16-22,Female,0,1,Yes,20 to 100 miles,$100-$500
+30-40,Male,0,0,Yes,Local (<20 miles),$100-$500
+16-22,Female,0,0,Yes,Local (<20 miles),less than $100
+16-22,Female,0,0,Yes,Local (<20 miles),less than $100
+16-22,Female,0,0,Yes,20 to 100 miles,less than $100
+23-30,Female,0,0,Yes,20 to 100 miles,less than $100
+16-22,Female,2,2,Yes,100 to 1000 miles,$100-$500
+16-22,Female,0,0,Yes,20 to 100 miles,$100-$500
+16-22,Male,0,0,Yes,Local (<20 miles),less than $100
+16-22,Female,1,0,Yes,100 to 1000 miles,$100-$500
+50+,Male,1,0,No,Local (<20 miles),less than $100
+16-22,Male,3,0,Yes,20 to 100 miles,$100-$500
+16-22,Female,1,0,Yes,20 to 100 miles,$100-$500
+16-22,Female,0,0,Yes,20 to 100 miles,less than $100
+16-22,Male,0,0,Yes,20 to 100 miles,less than $100
+40-50,Female,2,0,Yes,Local (<20 miles),less than $100
+16-22,Male,4,0,No,20 to 100 miles,less than $100
+16-22,Female,0,0,Yes,20 to 100 miles,less than $100
+30-40,Female,2,0,Yes,> 1000 miles,$1000+
+16-22,Male,0,0,Yes,20 to 100 miles,$100-$500
+50+,Female,2,0,Yes,Local (<20 miles),less than $100
+16-22,Female,0,0,Yes,20 to 100 miles,less than $100
+50+,Female,2,0,Yes,20 to 100 miles,less than $100
+23-30,Female,1,1,Yes,Local (<20 miles),$100-$500
+16-22,Male,0,0,Yes,Local (<20 miles),less than $100
+40-50,Female,2,0,Yes,20 to 100 miles,$100-$500
+16-22,Female,0,0,Yes,20 to 100 miles,$100-$500
+50+,Female,2,0,Yes,20 to 100 miles,less than $100
+30-40,Female,2,0,Yes,20 to 100 miles,$100-$500
+40-50,Female,2,0,Yes,Local (<20 miles),$100-$500
+23-30,Female,1,0,Yes,Local (<20 miles),$100-$500
+16-22,Female,0,0,No,Local (<20 miles),less than $100
+30-40,Female,0,0,Yes,100 to 1000 miles,$100-$500
+16-22,Female,0,0,No,20 to 100 miles,$100-$500
+23-30,Male,0,1,Yes,Local (<20 miles),less than $100
+30-40,Male,2,6,No,Local (<20 miles),less than $100
+40-50,Female,2,1,Yes,20 to 100 miles,$100-$500
+16-22,Male,0,0,Yes,20 to 100 miles,$100-$500
+16-22,Female,0,0,Yes,Local (<20 miles),less than $100
+16-22,Male,0,0,Yes,20 to 100 miles,$500-$1000
+30-40,Female,1,1,Yes,Local (<20 miles),less than $100
+30-40,Male,0,0,Yes,Local (<20 miles),less than $100
+30-40,Female,2,0,Yes,Local (<20 miles),$100-$500
+50+,Female,2,0,Yes,Local (<20 miles),$100-$500
+16-22,Female,0,0,Yes,20 to 100 miles,$100-$500
+40-50,Female,2,0,Yes,20 to 100 miles,$100-$500
+16-22,Female,0,0,Yes,20 to 100 miles,less than $100
+16-22,Male,0,0,Yes,20 to 100 miles,less than $100
+16-22,Male,3,0,Yes,20 to 100 miles,$100-$500
+30-40,Female,2,0,Yes,20 to 100 miles,less than $100
+40-50,Female,2,0,Yes,> 1000 miles,$500-$1000
+40-50,Female,2,2,Yes,20 to 100 miles,less than $100
+16-22,Female,0,0,No,,
+40-50,Female,1,0,Yes,20 to 100 miles,$100-$500
+23-30,Male,0,0,Yes,100 to 1000 miles,$100-$500
+23-30,Female,0,0,Yes,20 to 100 miles,less than $100
+23-30,Female,0,0,Yes,100 to 1000 miles,$100-$500
+40-50,Female,2,0,Yes,20 to 100 miles,$100-$500
+40-50,Female,2,0,No,Local (<20 miles),less than $100
+16-22,Female,0,0,No,,
+30-40,Female,2,1,Yes,20 to 100 miles,$500-$1000
+30-40,Female,2,0,Yes,20 to 100 miles,$100-$500
+30-40,Female,2,0,Yes,20 to 100 miles,$100-$500
+40-50,Female,2,1,Yes,20 to 100 miles,$100-$500
+23-30,Male,0,0,Yes,20 to 100 miles,$100-$500
+68,Female,2,2,Yes,Local (<20 miles),less than $100
+40-50,Female,2,0,No,Local (<20 miles),$100-$500
+16-22,Male,2,2,Yes,Local (<20 miles),less than $100
+30-40,Female,2,0,Yes,Local (<20 miles),less than $100
+23-30,Female,2,0,Yes,20 to 100 miles,$100-$500
+16-22,Male,2,6,Yes,Local (<20 miles),less than $100
+23-30,Male,0,0,No,Local (<20 miles),less than $100
+40-50,Female,2,1,No,20 to 100 miles,less than $100
+50+,Female,2,5,Yes,Local (<20 miles),less than $100
+50+,Female,2,0,Yes,Local (<20 miles),$100-$500
+16-22,Male,2,2,Yes,,less than $100
+30-40,Female,2,5,Yes,Local (<20 miles),less than $100
+16-22,Female,0,0,Yes,100 to 1000 miles,$100-$500
+40-50,Female,2,2,Yes,Local (<20 miles),$100-$500
+16-22,Female,2,2,Yes,Local (<20 miles),less than $100
+16-22,Female,0,0,No,Local (<20 miles),less than $100
+30-40,Female,2,2,Yes,100 to 1000 miles,$100-$500
+16-22,Male,0,1,Yes,20 to 100 miles,$100-$500
+40-50,Female,2,0,Yes,20 to 100 miles,$100-$500
+50+,Female,0,0,Yes,Local (<20 miles),$100-$500
+40-50,Female,2,0,Yes,,
+16-22,Female,0,0,No,Local (<20 miles),less than $100
+40-50,Female,2,0,Yes,Local (<20 miles),less than $100
+16-22,Female,5,0,Yes,Local (<20 miles),$100-$500
+16-22,Male,0,0,Yes,20 to 100 miles,$100-$500
+40-50,Female,1,0,Yes,20 to 100 miles,$100-$500
+23-30,Male,1,0,Yes,100 to 1000 miles,$100-$500
+40-50,Male,2,2,No,Local (<20 miles),$100-$500
+50+,Female,2,0,Yes,20 to 100 miles,less than $100
+23-30,Female,0,0,Yes,20 to 100 miles,$100-$500
+16-22,Female,3,0,Yes,100 to 1000 miles,$500-$1000
+30-40,Female,2,0,Yes,Local (<20 miles),less than $100
+30-40,Female,2,0,No,Local (<20 miles),less than $100
+23-30,Male,0,1,Yes,20 to 100 miles,$100-$500
+40-50,Female,3,0,No,Local (<20 miles),less than $100
+Under 16,Female,1,0,No,Local (<20 miles),less than $100
+Under 16,Female,1,0,No,,
+50+,Female,3,3,Yes,20 to 100 miles,$100-$500
+30-40,Male,2,1,Yes,20 to 100 miles,$100-$500
+50+,Female,0,0,No,,
+30-40,Female,2,0,Yes,Local (<20 miles),less than $100
+40-50,Female,2,0,No,Local (<20 miles),$100-$500
+40-50,Female,2,0,Yes,100 to 1000 miles,$100-$500
+16-22,Female,0,0,Yes,20 to 100 miles,less than $100
+50+,Female,1,0,Yes,Local (<20 miles),less than $100
+40-50,Male,2,0,No,Local (<20 miles),less than $100
+40-50,Female,2,0,Yes,20 to 100 miles,less than $100
+23-30,Male,4,4,Yes,> 1000 miles,$1000+
+16-22,Female,4,0,Yes,20 to 100 miles,$100-$500
+23-30,Male,0,0,Yes,20 to 100 miles,less than $100
+16-22,Male,0,0,Yes,20 to 100 miles,$100-$500
+23-30,Male,1,1,No,Local (<20 miles),less than $100
+50+,Female,1,1,Yes,20 to 100 miles,$100-$500
+50+,Female,1,1,Yes,20 to 100 miles,less than $100
+16-22,Male,0,0,No,,
+16-22,Male,6,0,No,Local (<20 miles),less than $100
+23-30,Female,2,2,Yes,Local (<20 miles),less than $100
+16-22,Male,0,0,Yes,20 to 100 miles,less than $100
+16-22,Female,0,0,Yes,100 to 1000 miles,$100-$500
+23-30,Female,0,0,Yes,20 to 100 miles,$100-$500
